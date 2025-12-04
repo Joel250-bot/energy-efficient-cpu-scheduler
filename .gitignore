@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+*.pkl
+*.sqlite3
+.env
+.idea/
+.vscode/
+output_*.png
+metrics.csv
