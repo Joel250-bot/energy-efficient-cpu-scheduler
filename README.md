@@ -21,3 +21,5 @@ It reduces energy consumption while maintaining performance.
 - README.md          → Project info  
 - requirements.txt   → Python dependencies  
 - .gitignore         → Ignore unnecessary files  
+
+Feature branch for energy heuristic.
