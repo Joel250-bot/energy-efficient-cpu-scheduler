@@ -50,8 +50,7 @@ class Simulator:
                     self.ready,
                     key=lambda p: 0.7 * (p.remaining * self.P_active) + 0.3 * p.remaining
                 )
-
-                # First time running this process
+                
                 if chosen.remaining == chosen.burst:
                     chosen.start_times.append(self.time)
 
