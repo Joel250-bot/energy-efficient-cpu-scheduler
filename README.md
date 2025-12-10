@@ -23,3 +23,8 @@ It reduces energy consumption while maintaining performance.
 - .gitignore         → Ignore unnecessary files  
 
 Feature branch for energy heuristic.
+
+Author:
+Joel
+Sampath
+Utkarsh
