@@ -24,7 +24,5 @@ It reduces energy consumption while maintaining performance.
 
 Feature branch for energy heuristic.
 
-Author:
-Joel
-Sampath
-Utkarsh
+Authors:
+Joel,Sampath,Utkarsh
